@@ -19,4 +19,12 @@ Note que, você fez uma melhoria, mas, o teor do projeto será entregue na prime
 - O sistema deve ter latência.
 - O sistema deve ter usabilidade.
 
-# GRUPO : BRUNO PINHO , CARLOS PINHO, RICARDO OLIVEIRA , GUSTAVO CARVALHO
+
+<hr>
+
+# GRUPO 
+
+- BRUNO PINHO
+- CARLOS PINHO
+- RICARDO OLIVEIRA
+- GUSTAVO CARVALHO
